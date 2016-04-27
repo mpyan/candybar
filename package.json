@@ -2,6 +2,10 @@
   "name": "candybar",
   "version": "1.0.0",
   "description": "Unwraps all arrays in a JSON object and replaces them with their first element. Great for handling objects containing single-element arrays.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpyan/candybar.git"
+  },
   "main": "candybar.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
