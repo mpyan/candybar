@@ -1,6 +1,6 @@
 # candybar
 
-Unwraps all arrays in a JSON object and replaces them with their first element. Great for handling objects containing single-element arrays.
+Unwraps all arrays in an array of JSON objects and replaces each array with their first element. Great for handling objects containing single-element arrays.
 
 ## Install
 `npm install candybar`
