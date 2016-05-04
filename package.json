@@ -1,7 +1,7 @@
 {
   "name": "candybar",
-  "version": "1.0.2",
-  "description": "Unwraps all arrays in a JSON object and replaces them with their first element. Great for handling objects containing single-element arrays.",
+  "version": "1.0.3",
+  "description": "Unwraps all arrays in an array of JSON objects and replaces each array with their first element. Great for handling objects containing single-element arrays.",
   "repository": {
     "type": "git",
     "url": "https://github.com/mpyan/candybar.git"
